@@ -2,7 +2,7 @@
 
 **Autonomous Threat Detection and Response System**
 
-<img src="https://github.com/Pharos-Defense/.github/profile/b1752949-1ad9-4bf8-860e-bc9a183da3eb_0.png" alt="Pharos Defense Logo" width=600>
+<img src="https://github.com/Pharos-Defense/.github/blob/main/profile/b1752949-1ad9-4bf8-860e-bc9a183da3eb_0.png" alt="Pharos Defense Logo" width=600>
 
 > Building the world's first fully integrated AI-powered weapon detection platform with coordinated drone swarm response.
 
