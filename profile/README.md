@@ -242,9 +242,8 @@ This software may be subject to U.S. export control regulations. Please consult 
 ## 📞 Contact & Support
 
 **Pharos AI Defense Platform**
-- **Website**: https://pharos-ai.com
-- **Email**: support@pharos-ai.com
-- **Documentation**: https://docs.pharos-ai.com
+- **Website**: https://site.ankhstudio.com
+- **Email**: pharos@ankhstudio.com
 
 **Founded by Brandon Coburn**
 - Navy veteran with Emergency Operations Center experience
